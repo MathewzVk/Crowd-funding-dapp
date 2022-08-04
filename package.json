@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "electron": "^20.0.1",
     "ganache": "^6.4.4",
     "ganache-cli": "^6.12.2",
     "history": "^5.0.0",
